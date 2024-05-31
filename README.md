@@ -25,11 +25,11 @@ public class Principal {
 
 // Comentário de uma linha só
 
-/* Comentário de várias linhas
-        a
-        b
-        c
-        d */
+/* Comentário de várias linhas  
+        a  
+        b  
+        c  
+        d */  
 
 ## 🔍Referências
 - [IntelliJ IDEA: dicas e truques para usar no dia a dia](https://www.alura.com.br/artigos/intellij-idea-dicas-truques-usar-no-dia-a-dia).
