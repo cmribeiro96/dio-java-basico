@@ -1,3 +1,5 @@
+package javaBasico.anatomiaDasClasses;
+
 public class MinhaClasse {
 
     public static void main(String[] args) {
@@ -68,4 +70,32 @@ public class MinhaClasse {
         return "Resultado do método " + primeiroNome.concat(" ").concat(segundoNome);
         //somar uma string é outra forma de concatenar além de .concat()
     }
+
+    //Exemplos de Convenção Java Beans
+
+    /*
+    Não recomendado
+
+    double salMedio = 1500.23  //variável abreviada, o que dificulta a compreensão
+    String emails = "aluno@escola.com" //confuso se a variável seria um array ou único e-mail
+    String myName = "JOSEPH" //se idioma pt-BR, o valor poder ser de outro idioma mas o nome da variável não
+
+    Recomendado
+
+    double salarioMedio=1500.23;
+    tring email ="aluno@escola.com";
+    tring [] emails = {"aluno@escola.com","professor@escola.com"}
+    tring meuNome = "JOSEPH"
+
+    Exemplos sugeridos para nomenclatura de métodos:
+
+    somar(int n1, int n2){}
+    abrirConexao(){}
+    concluirProcessamento() {}
+    findById(int id){} // não se assuste, você verá muito método em inglês em sua jornada
+    calcularImprimir(){} // há algo de errado neste método, ele deveria ter uma única finalidade
+
+    */
+
+
 }

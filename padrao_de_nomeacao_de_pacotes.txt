@@ -1,0 +1,9 @@
+com. = comercial
+
+org. = organizacional
+
+opensource.
+
+Exemplo:
+
+com.hypertech.notification
