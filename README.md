@@ -1,7 +1,7 @@
 # DIO | Java Básico
 Repositório para armazenar todo o conteúdo do curso de Java Básico da [Digital Innovation One](https://www.dio.me/).
 
-# DIO | Principais atalhos no IntelliJ
+# Principais atalhos no IntelliJ
 
 - Escreva ”psvm” e aperte a tecla Tab para que seja escrito automaticamente:
 
