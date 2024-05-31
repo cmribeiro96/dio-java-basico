@@ -1,5 +1,5 @@
-# DIO | Java Básico
-Repositório para armazenar todo o conteúdo do curso de Java Básico da [Digital Innovation One](https://www.dio.me/).
+# DIO | Java Básico | Bootcamp Santander 2024
+Repositório para armazenar todo o projeto de aprendizagem em código do curso de Java Básico da [Digital Innovation One](https://www.dio.me/).
 
 # Principais atalhos no IntelliJ
 
