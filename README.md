@@ -1,7 +1,7 @@
 # DIO | Java Básico | Bootcamp Santander 2024
 Repositório para armazenar todo o projeto de aprendizagem em código do curso de Java Básico da [Digital Innovation One](https://www.dio.me/).
 
-# Principais atalhos no IntelliJ
+## 📚 Anotações - Principais atalhos no IntelliJ
 
 - Escreva ”psvm” e aperte a tecla Tab para que seja escrito automaticamente:
 
