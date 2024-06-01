@@ -1,7 +1,7 @@
 idea/
-java-anatomia-classes/java-anatomia-classes.iml
-java-anatomia-classes/.idea/
-java-anatomia-classes/out/
+dio-trilha-java-basico/dio-trilha-java-basico.iml
+dio-trilha-java-basico/.idea/
+dio-trilha-java-basico/out/
 
 # Compiled class file
 *.class
