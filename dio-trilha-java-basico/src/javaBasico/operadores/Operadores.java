@@ -110,11 +110,99 @@ public class Operadores {
 //
 //        System.out.println(numero);
 
-        boolean variavel = true;
+//        boolean variavel = true;
+//
+//        variavel = !variavel;
+//
+//        System.out.println(variavel);
 
-        variavel = !variavel;
+//        Ternário
+//        O operador de condição ternária é uma forma resumida para definir uma condição e escolher por um dentre dois valores. Você deve pensar numa condição ternária, como se fosse uma condição IF normal, porém, de uma forma em que toda a sua estrutura estará escrita numa única linha.
+//
+//        O operador ternário é representado pelos símbolos "?" e ":" utilizados na seguinte estrutura de sintaxe:
+//
+//          <Expressão Condicional>`` ? ``<Caso condição seja true>`` : ``<Caso condição seja false>
 
-        System.out.println(variavel);
+        // classe Operadores.java
+        int a, b;
+
+        a = 5;
+        b = 6;
+
+    /* EXEMPLO DE CONDICIONAL UTILIZANDO UMA ESTRUTURA IF/ELSE
+    if(a==b)
+    resultado = "verdadeiro";
+    else
+    resultado = "falso";
+    */
+
+    //MESMA CONDICIONAL, MAS DESSA VEZ, UTILIZANDO O OPERADOR CONDICIONAL TERNÁRIO
+//        String resultado = (a==b) ? "verdadeiro" : "false";
+//
+//        System.out.println(resultado);
+
+//        Relacionais
+//        Os operadores relacionais, avaliam a relação entre duas variáveis ou expressões. Neste caso, mais precisamente, definem se o operando à esquerda é igual, diferente, menor, menor ou igual, maior, maior ou igual ao da direita, retornando um valor booleano como resultado.
+//
+//                == Quando desejamos verificar se uma variável é IGUAL A outra.
+//
+//                != Quando desejamos verificar se uma variável é DIFERENTE da outra.
+//
+//                > Quando desejamos verificar se uma variável é MAIOR QUE a outra.
+//
+//                >= Quando desejamos verificar se uma variável é MAIOR OU IGUAL a outra.
+//
+//                < Quando desejamos verificar se uma variável é MENOR QUE outra.
+//
+//                <= Quando desejamos verificar se uma variável é MENOR OU IGUAL a outra.
+
+
+        //classe Operadores.java
+//        int numero1 = 1;
+//        int numero2 = 2;
+//
+//        if(numero1 > numero2)
+//            System.out.print("Numero 1 maior que numero 2");
+
+//          Lógicos
+//          Os operadores lógicos, representam o recurso que nos permite criar expressões lógicas maiores, a partir da junção de duas ou mais expressões.
+//
+//          && Operador Lógico "E"
+//
+//          || Operador Lógico "OU"
+
+        // Operadores.java
+        boolean condicao1=true;
+
+        boolean condicao2=false;
+
+    /* Aqui estamos utilizando o operador lógico E para fazer a união de duas
+    expressões.
+    É como se estivesse escrito:
+    "Se Condicao1 e Condicao2 forem verdadeiras, executar código"
+    */
+
+        if(condicao1 && condicao2) {
+            System.out.print("Os dois valores precisam ser verdadeiros");
+            ;
+        }
+    //Se condicao1 OU condicao2 for verdadeira, executar código.
+        if(condicao1 || condicao2){
+            System.out.print("Um dos valores precisa ser verdadeiro");
+        }
+
+        // ComparacaoAvancada.java
+        int numero1 = 1;
+        int numero2 = 1;
+
+        if(numero1== 2 & numero2 ++ == 2 ) {
+            System.out.println("As 2 condições são verdadeiras");
+
+            System.out.println("O numero 1 agora é " + numero1);
+            System.out.println("O numero 2 agora é " + numero2);
+        }
+// Vamos mudar a linha 5 do código acima para: if(numero1== 2 && numero2 ++ == 2 )
+
     }
 
 }
