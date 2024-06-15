@@ -6,6 +6,7 @@
       <sourceFolder url="file://$MODULE_DIR$/DesafioControleFluxo" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/TransfereSalario" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/controle-candidatos" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ExcecoesELoops" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
