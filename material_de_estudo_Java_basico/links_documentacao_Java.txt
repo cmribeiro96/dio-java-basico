@@ -1,2 +1,3 @@
 https://docs.oracle.com/javase/7/docs/api/java/lang/String.html
 https://pt.wikipedia.org/wiki/Javadoc
+https://glysns.gitbook.io/java-basico/programacao-orientada-a-objetos/conceito-de-poo
