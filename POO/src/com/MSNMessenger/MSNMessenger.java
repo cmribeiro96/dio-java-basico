@@ -1,7 +1,8 @@
-package com;
+package com.MSNMessenger;
 
 public class MSNMessenger {
     public void enviarMensagem() {
+        validarConectadoInternet();
         System.out.println("Enviando mensagem");
     }
     public void receberMensagem() {

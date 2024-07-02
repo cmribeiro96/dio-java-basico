@@ -1,0 +1,10 @@
+# DIO - POO - Desafio iPhone
+Fiz este Repsitório para poder entregar o projeto da etapa de Programação Orientada a Objetos do Bootcamp Back-end em Java, da DIO/Santander.
+
+### Diagrama UML (feito com a plataforma Mermaid)
+[![](https://mermaid.ink/img/pako:eNqNk0FuwjAQRa8SeQUquUAWlaqyqVQgEl16M7WHYNUZo7FdFRCn6aIX6A24WE1CIUAWeDX-frK__cdboZxGUYg8zyUFEywWmSmXjlBSo0lSFrwfG6gYaklZGo2SlRbWyGOcRG8UZNt27TAeGFfsdNwYHgw78goYLpXATgG3OwzmgQ1VGbkaO8zuXJ6r1sGrqWD_s_92b2hxsf-lKx_NEdr4dMRp81gju-EVAwFJ44W1RldgeArPYL6gdD6AHdxnbAqfWIF26XVeKCAThhtfyRQniEuoDJ0uH9nemotgzeZE3qwrRq-QAvAsBoan98R0ibsst6F3XfbCRyzPH6_y70X6AuoFex7s0HpiJFJcNRidWrSxJkVYYo1SFKnUwB9SSNolDmJw8zUpUQSOOBLsYrUUxQKsT7O40injYxP_I6hNcDxpP0DzD3Z_tXDqVQ?type=png)](https://mermaid.live/edit#pako:eNqNk0FuwjAQRa8SeQUquUAWlaqyqVQgEl16M7WHYNUZo7FdFRCn6aIX6A24WE1CIUAWeDX-frK__cdboZxGUYg8zyUFEywWmSmXjlBSo0lSFrwfG6gYaklZGo2SlRbWyGOcRG8UZNt27TAeGFfsdNwYHgw78goYLpXATgG3OwzmgQ1VGbkaO8zuXJ6r1sGrqWD_s_92b2hxsf-lKx_NEdr4dMRp81gju-EVAwFJ44W1RldgeArPYL6gdD6AHdxnbAqfWIF26XVeKCAThhtfyRQniEuoDJ0uH9nemotgzeZE3qwrRq-QAvAsBoan98R0ibsst6F3XfbCRyzPH6_y70X6AuoFex7s0HpiJFJcNRidWrSxJkVYYo1SFKnUwB9SSNolDmJw8zUpUQSOOBLsYrUUxQKsT7O40injYxP_I6hNcDxpP0DzD3Z_tXDqVQ)
+
+## Observações
+- Foi criado uma interface para cada função do iPhone, conforme solicitado no desafio;
+- Foi criada a classe _SmartPhone_ para reunir as funções abstratas das interfaces e foram acrescentadas as devidas funcionalidades;
+- Também foi criada a classe _IPhone_ para gerar uma instância da classe _SmartPhone_ para trabalhar as funcionalidades do objeto;
